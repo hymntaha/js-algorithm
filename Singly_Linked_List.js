@@ -23,10 +23,12 @@ class SinglyLinkedList{
     this.length++;
     return this
   }
-  traverse(){
+  pop(){
+    if(!this.head) return undefined;
     let current = this.head;
-    while(current){
-      console.log(current.val);
+    let newTail = current;
+    while (current.next) {
+      newTail = current;
       current = current.next;
     }
   }
@@ -34,5 +36,7 @@ class SinglyLinkedList{
 
 let list = new SinglyLinkedList()
 list.push('Hola')
+list.push('Goodbye')
+list.push('!')
 
 
