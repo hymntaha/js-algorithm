@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aebb15e4-5f12-4eb8-b145-31dda298201f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Doubly_Linked_List.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="aebb15e4-5f12-4eb8-b145-31dda298201f" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -112,16 +109,15 @@
       <option name="presentableId" value="Default" />
       <updated>1564553994898</updated>
       <workItem from="1564553997341" duration="4477000" />
-      <workItem from="1564607072404" duration="172000" />
+      <workItem from="1564607072404" duration="460000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4649000" />
+    <option name="totallyTimeSpent" value="4937000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="110" width="1920" height="1008" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24960506" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
