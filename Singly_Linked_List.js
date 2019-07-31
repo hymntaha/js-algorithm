@@ -28,9 +28,4 @@ class SinglyLinkedList{
 let list = new SinglyLinkedList()
 list.push('Hola')
 
-// let first = new Node("Hi");
-// first.next = new Node("there");
-// first.next.next = new Node("how");
-// first.next.next.next = new Node("are");
-// first.next.next.next.next = new Node("you");
 
