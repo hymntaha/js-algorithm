@@ -34,6 +34,7 @@ class DoublyLinkedList{
     } else {
       this.tail = poppedNode.prev;
       this.tail.next = null;
+      poppedNode.prev = null;
     }
     this.length--;
     return poppedNode;
