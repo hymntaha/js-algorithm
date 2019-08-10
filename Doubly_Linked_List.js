@@ -100,5 +100,7 @@ class DoublyLinkedList{
 
     newNode.next = afterNode
     afterNode.prev = newNode;
+    this.length++;
+    return true;
   }
 }
