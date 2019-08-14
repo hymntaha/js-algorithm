@@ -36,3 +36,8 @@ class Queue{
         return temp.value;
     }
 }
+
+// Insertion - O(1)
+// Removal - O(1)
+// Searching - O(N)
+// Access - O(N)
