@@ -60,4 +60,5 @@ class BST {
 
 var tree = new BST();
 
-
+// Insertion - O(logn)
+// Searching - O(logn)
