@@ -37,7 +37,7 @@ class BST {
             }
         }
     }
-    find(value){
+    contains(value){
         if(this.root === null) return false;
 
         let current = this.root,
@@ -49,10 +49,12 @@ class BST {
             } else if (value > current.value){
                 current = current.right;
             } else {
-                found = true;
+                return true;
             }
         }
-        return current;
+
+       
+        return false;
     }
 }
 
