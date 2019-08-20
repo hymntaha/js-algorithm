@@ -70,4 +70,7 @@ class Node{
     }
 }
 
-
+// Big O
+// Insertion - O(logn)
+// Remove - O(logn)
+// Search - O(N)
