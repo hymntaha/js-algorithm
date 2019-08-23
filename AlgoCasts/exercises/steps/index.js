@@ -19,8 +19,21 @@
 
 function steps(n) {
     // let string = '#\n'
-    for(let i=1; i<=n; i++){
-        console.log("'" + '#'.repeat(i) + ' '.repeat(n-i)+"'")
+//     for(let i=1; i<=n; i++){
+//         console.log("'" + '#'.repeat(i) + ' '.repeat(n-i)+"'")
+//     }
+// }
+    for (let row = 0; row<n; row++){
+        let stair = '';
+        for(let column = 0; column<n; column++){
+            if(column <= row){
+                stair += '#';
+            } else{
+                stair += ' ';
+            }
+            
+        }
+        console.log(stair)
     }
 }
 
