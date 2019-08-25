@@ -8,17 +8,31 @@
 // Example:
 //   fib(4) === 3
 
-function fib(n) {
-    const result = [];
+function memoize(fn) {
+    const cache = {};
+    return function(...args){
+        if(cache[args]){
+            return cache[args];
+        }
 
-    for(let i = 2; i<=n; i++){
-        const a = result[i-1];
-        const b = result[i-2];
+        const result = fn.apply(this, args);
+        cache[args] = result;
 
-        result.push(a+b);
-    }
-
-    return result[n];
+        return result;
+    };
 }
 
 module.exports = fib;
+
+// function fib(n) {
+//     const result = [];
+
+//     for(let i = 2; i<=n; i++){
+//         const a = result[i-1];
+//         const b = result[i-2];
+
+//         result.push(a+b);
+//     }
+
+//     return result[n];
+// }
