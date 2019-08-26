@@ -13,9 +13,11 @@ class LinkedList {
     constructor(){
         this.head = null;
     }
+
     insertFirst(data){
         this.head = new Node(data, this.head);
     }
+
     size(){
         let counter = 0;
         let node = this.head;
@@ -26,6 +28,7 @@ class LinkedList {
         }
         return counter;
     }
+    
     getFirst(){
         return this.head;
     }
