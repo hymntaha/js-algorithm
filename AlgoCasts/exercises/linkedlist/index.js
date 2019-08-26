@@ -24,6 +24,10 @@ class LinkedList {
             counter++;
             node = node.next;
         }
+        return counter;
+    }
+    getFirst(){
+
     }
 }
 
