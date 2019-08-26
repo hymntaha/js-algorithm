@@ -50,7 +50,7 @@ class LinkedList {
     }
     
     clear(){
-        
+        this.head = null;
     }
 }
 
