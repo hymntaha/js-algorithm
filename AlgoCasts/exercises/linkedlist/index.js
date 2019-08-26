@@ -48,6 +48,10 @@ class LinkedList {
             node = node.next
         }
     }
+    
+    clear(){
+        
+    }
 }
 
 module.exports = { Node, LinkedList };
