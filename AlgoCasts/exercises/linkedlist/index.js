@@ -105,6 +105,10 @@ class LinkedList {
 
         return null;
     }
+
+    removeAt(index){
+
+    }
 }
 
 module.exports = { Node, LinkedList };
