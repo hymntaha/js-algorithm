@@ -37,6 +37,7 @@ class Tree {
             const node = arr.shift();
 
             arr.push(...node.children)
+            fn(node)
         }
     }
 }
