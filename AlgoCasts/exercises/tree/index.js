@@ -30,6 +30,10 @@ class Tree {
     constructor(){
         this.root = null;
     }
+
+    traverseBF(fn){
+        
+    }
 }
 
 module.exports = { Tree, Node };
