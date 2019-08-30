@@ -6,7 +6,7 @@ const max_sub_array_of_size_k = function(k, arr) {    const result = [];
     for(windowEnd = 0; windowEnd<arr.length; windowEnd++){
         windowSum += arr[windowEnd];
 
-        if(windowEnd >= K-1){
+        if(windowEnd >= k-1){
             maxSum = Math.max(maxSum, windowSum);
             windowSum -= arr[windowStart];
             windowStart += 1;
@@ -16,4 +16,6 @@ const max_sub_array_of_size_k = function(k, arr) {    const result = [];
     return maxSum;
 }
 
-max_sum_subarray(3,[2, 1, 5, 1, 3, 2])
+
+console.log(`Maximum sum of a subarray of size K: ${max_sub_array_of_size_k(3, [2, 1, 5, 1, 3, 2])}`);
+console.log(`Maximum sum of a subarray of size KL ${max_sub_array_of_size_k(2, [2, 3, 4, 1, 5])}`);
