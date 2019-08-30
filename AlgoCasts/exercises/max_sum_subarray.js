@@ -1,5 +1,4 @@
-function max_sum_subarray(K, arr) {
-    const result = [];
+const max_sub_array_of_size_k = function(k, arr) {    const result = [];
     let windowStart = 0;
     let windowSum = 0;
 
