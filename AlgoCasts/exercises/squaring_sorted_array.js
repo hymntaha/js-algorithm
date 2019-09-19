@@ -21,5 +21,5 @@ function make_squares(arr) {
 }
 
 
-console.log(`Squares: ${make_squares([-2, -1, 0, 2, 3])}`);
+// console.log(`Squares: ${make_squares([-2, -1, 0, 2, 3])}`);
 console.log(`Squares: ${make_squares([-3, -1, 0, 1, 2])}`);
