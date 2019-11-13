@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2438fa93-0367-40b8-898c-0c83738d55f3" name="Default Changelist" comment="">
+    <list default="true" id="2438fa93-0367-40b8-898c-0c83738d55f3" name="Default Changelist" comment="new algo">
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,14 +35,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.find_word_concat.js">
+  <component name="RunManager" selected="Node.js.pair_with_target.js">
     <configuration name="find_substring.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/exercises/find_substring.js" working-dir="$PROJECT_DIR$/exercises">
       <method v="2" />
     </configuration>
     <configuration name="find_word_concat.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/exercises/find_word_concat.js" working-dir="$PROJECT_DIR$/exercises">
       <method v="2" />
     </configuration>
-    <configuration name="longest_substring_no_repeat.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/exercises/longest_substring_no_repeat.js" working-dir="$PROJECT_DIR$/exercises">
+    <configuration name="pair_with_target.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/exercises/pair_with_target.js" working-dir="$PROJECT_DIR$/exercises">
       <method v="2" />
     </configuration>
     <configuration name="replace_k.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/exercises/replace_k.js" working-dir="$PROJECT_DIR$/exercises">
@@ -53,11 +53,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.pair_with_target.js" />
         <item itemvalue="Node.js.find_word_concat.js" />
         <item itemvalue="Node.js.find_substring.js" />
         <item itemvalue="Node.js.string_anagram.js" />
         <item itemvalue="Node.js.replace_k.js" />
-        <item itemvalue="Node.js.longest_substring_no_repeat.js" />
       </list>
     </recent_temporary>
   </component>
@@ -83,7 +83,7 @@
       <workItem from="1568793100305" duration="246000" />
       <workItem from="1568872036469" duration="4781000" />
       <workItem from="1568926910264" duration="1952000" />
-      <workItem from="1573497993931" duration="8184000" />
+      <workItem from="1573497993931" duration="8354000" />
     </task>
     <servers />
   </component>
