@@ -26,6 +26,6 @@ const longest_substring_with_k_distinct = function(str, k) {
   return maxLength;
 };
 
-console.log(`Length of the longest substring: ${longest_substring_with_k_distinct('araaci', 2)}`);
-console.log(`Length of the longest substring: ${longest_substring_with_k_distinct('araaci', 1)}`);
+// console.log(`Length of the longest substring: ${longest_substring_with_k_distinct('araaci', 2)}`);
+// console.log(`Length of the longest substring: ${longest_substring_with_k_distinct('araaci', 1)}`);
 console.log(`Length of the longest substring: ${longest_substring_with_k_distinct('cbbebi', 3)}`);

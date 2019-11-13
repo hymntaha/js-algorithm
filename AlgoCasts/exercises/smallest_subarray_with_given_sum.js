@@ -5,7 +5,6 @@ function smallest_subarray_with_given_sum(s, arr) {
   
     for (windowEnd = 0; windowEnd < arr.length; windowEnd++) {
       windowSum += arr[windowEnd]; // add the next element
-      console.log(windowEnd);
       // shrink the window as small as possible until the 'window_sum' is smaller than 's'
       while (windowSum >= s) {
         minLength = Math.min(minLength, windowEnd - windowStart + 1);

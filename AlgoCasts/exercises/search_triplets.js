@@ -7,7 +7,7 @@ var threeSum = function(nums) {
     return a - b;
   });
 
-  // (-3,-2, -1, 0, 1, 1, 2)
+  // (-3,-2, -1, 0, 1, 1, 2) ([-3, 1, 2], [-2, 0, 2], [-2, 1, 1], [-1, 0, 1])
   for (var i = 0; i < nums.length - 2; i++) {
     if (nums[i] > 0) {
       return rtn;
