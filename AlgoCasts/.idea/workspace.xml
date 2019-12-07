@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2438fa93-0367-40b8-898c-0c83738d55f3" name="Default Changelist" comment="new algo">
-      <change afterPath="$PROJECT_DIR$/../single_number.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../single_number.js" beforeDir="false" afterPath="$PROJECT_DIR$/../single_number.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +36,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.3sum.js">
+  <component name="RunManager" selected="Node.js.single_num.js">
     <configuration name="3sum.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/exercises/3sum.js" working-dir="$PROJECT_DIR$/exercises">
       <method v="2" />
     </configuration>
@@ -46,7 +46,7 @@
     <configuration name="longest_palindrome.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/exercises/longest_palindrome.js" working-dir="$PROJECT_DIR$/exercises">
       <method v="2" />
     </configuration>
-    <configuration name="squaring_sorted_array.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/exercises/squaring_sorted_array.js" working-dir="$PROJECT_DIR$/exercises">
+    <configuration name="single_num.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/exercises/single_num.js" working-dir="$PROJECT_DIR$/exercises">
       <method v="2" />
     </configuration>
     <configuration name="triplet_with_smaller_sum.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/exercises/triplet_with_smaller_sum.js" working-dir="$PROJECT_DIR$/exercises">
@@ -54,11 +54,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.single_num.js" />
         <item itemvalue="Node.js.3sum.js" />
         <item itemvalue="Node.js.container_with_most_water.js" />
         <item itemvalue="Node.js.triplet_with_smaller_sum.js" />
         <item itemvalue="Node.js.longest_palindrome.js" />
-        <item itemvalue="Node.js.squaring_sorted_array.js" />
       </list>
     </recent_temporary>
   </component>
@@ -91,7 +91,7 @@
       <workItem from="1574023021012" duration="1266000" />
       <workItem from="1574029080443" duration="565000" />
       <workItem from="1574146393857" duration="2179000" />
-      <workItem from="1575672387192" duration="418000" />
+      <workItem from="1575672387192" duration="948000" />
     </task>
     <servers />
   </component>
