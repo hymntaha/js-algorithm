@@ -1,5 +1,5 @@
 const find_subarrays = function(arr, target) {
-  result = [];
+  result = [];s
 
 
 
