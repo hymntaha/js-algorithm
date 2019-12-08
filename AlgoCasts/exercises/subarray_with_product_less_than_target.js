@@ -1,30 +1,25 @@
-function triplet_with_smaller_sum(arr, target) {
-  arr.sort((a, b) => a - b);
-  const triplets = [];
-  for (i = 0; i < arr.length - 2; i++) {
-    search_pair(arr, target - arr[i], i, triplets);
-  }
-  return triplets;
-}
 
 
-function search_pair(arr, target_sum, first, triplets) {
-  let left = first + 1,
-    right = arr.length - 1;
-  while ((left < right)) {
-    if (arr[left] + arr[right] < target_sum) { // found the triplet
-      // since arr[right] >= arr[left], therefore, we can replace arr[right] by any number between
-      // left and right to get a sum less than the target sum
-      for (i = right; i > left; i--) {
-        triplets.push([arr[first], arr[left], arr[i]]);
-      }
+function find_subarrays(arr, target) {
+  let result = [],
+    product = 1,
+    left = 0;
+  for (right = 0; right < arr.length; right++) {
+    product *= arr[right];
+    while ((product >= target && left < arr.length)) {
+      product /= arr[left];
       left += 1;
-    } else {
-      right -= 1; // we need a pair with a smaller sum
+    }
+    // since the product of all numbers from left to right is less than the target therefore,
+    // all subarrays from lef to right will have a product less than the target too; to avoid
+    // duplicates, we will start with a subarray containing only arr[right] and then extend it
+    const tempList = new Deque();
+    for (let i = right; i > left - 1; i--) {
+      tempList.unshift(arr[i]);
+      result.push(tempList.toArray());
     }
   }
+  return result;
 }
 
-
-console.log(triplet_with_smaller_sum([-1, 0, 2, 3], 3));
-console.log(triplet_with_smaller_sum([-1, 4, 2, 1, 3], 5));
+console.log(find_subarrays([8, 2, 6, 5], 50));
