@@ -1,4 +1,4 @@
-
+const Deque = require('../collections-master/deque');
 
 function find_subarrays(arr, target) {
   let result = [],
