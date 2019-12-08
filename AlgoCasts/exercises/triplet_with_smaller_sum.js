@@ -27,4 +27,32 @@ function search_pair(arr, target_sum, first) {
 
 
 // console.log(triplet_with_smaller_sum([-1, 0, 2, 3], 3));
-console.log(triplet_with_smaller_sum([-1, 4, 2, 1, 3], 5));
+// console.log(triplet_with_smaller_sum([-1, 4, 2, 1, 3], 5));
+
+// -1,1,2,3,4
+// Elegant solution
+var threeSumSmaller = function (nums, target) {
+  var count = 0, i, hi, lo, len = nums.length;
+  if (len < 3) {
+    return count;
+  }
+
+  nums.sort(function(a,b){
+    return a - b;})
+
+  for (i = 1; i < len - 1; i++) {
+    lo=0;
+    hi=len-1;
+    while (lo < i && i < hi) {
+      if(nums[lo] + nums[i]+nums[hi]>=target){
+        hi--;
+      } else {
+        count += hi-i;
+        lo++;
+      }
+    }
+  }
+  return count;
+};
+
+console.log(threeSumSmaller([-1, 4, 2, 1, 3], 5));

@@ -36,7 +36,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.find_disappeared_nums.js">
+  <component name="RunManager" selected="Node.js.triplet_with_smaller_sum.js">
     <configuration name="3sum.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/exercises/3sum.js" working-dir="$PROJECT_DIR$/exercises">
       <method v="2" />
     </configuration>
@@ -54,11 +54,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.triplet_with_smaller_sum.js" />
         <item itemvalue="Node.js.find_disappeared_nums.js" />
         <item itemvalue="Node.js.single_num.js" />
         <item itemvalue="Node.js.3sum.js" />
         <item itemvalue="Node.js.container_with_most_water.js" />
-        <item itemvalue="Node.js.triplet_with_smaller_sum.js" />
       </list>
     </recent_temporary>
   </component>
@@ -91,7 +91,7 @@
       <workItem from="1574023021012" duration="1266000" />
       <workItem from="1574029080443" duration="565000" />
       <workItem from="1574146393857" duration="2179000" />
-      <workItem from="1575672387192" duration="1938000" />
+      <workItem from="1575672387192" duration="3386000" />
     </task>
     <servers />
   </component>
