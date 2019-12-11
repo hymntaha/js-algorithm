@@ -1,14 +1,19 @@
+/**
+ * @param {number[]} nums
+ * @param {number} target
+ * @return {number[]}
+ */
 var twoSum = function(nums, target) {
-  let lo = 0,
-    len = nums.length - 1,
-    hi = len;
-  for (lo; lo < len; lo++) {
-    if (nums[lo] + nums[hi] == target) {
-      return [lo, hi];
-    } else {
-      hi--;
+  let exist = {};
+
+  for(let i = 0; i < nums.length; i++) {
+    const n = nums[i];
+    if(exist[target - n] !== undefined) {
+      return [exist[target - n], i];
     }
+    exist[n] = i;
   }
+  return [];
 };
 
-console.log(twoSum([2, 11, 13, 5, 8, 6, s1, 7, 33, 2, 5], 9));
+console.log(twoSum([3, 2, 4], 6));
