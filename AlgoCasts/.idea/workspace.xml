@@ -41,29 +41,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.subarray_with_product_less_than_target.js">
-    <configuration name="3sum.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/exercises/3sum.js" working-dir="$PROJECT_DIR$/exercises">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Node.js.two-sum.js">
     <configuration name="find_disappeared_nums.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/exercises/find_disappeared_nums.js" working-dir="$PROJECT_DIR$/exercises">
       <method v="2" />
     </configuration>
-    <configuration name="single_num.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/exercises/single_num.js" working-dir="$PROJECT_DIR$/exercises">
+    <configuration name="list_triplet_with_smaller_sum.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/exercises/list_triplet_with_smaller_sum.js" working-dir="$PROJECT_DIR$/exercises">
+      <method v="2" />
+    </configuration>
+    <configuration name="remove_vowel.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/exercises/remove_vowel.js" working-dir="$PROJECT_DIR$/exercises">
       <method v="2" />
     </configuration>
     <configuration name="subarray_with_product_less_than_target.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/exercises/subarray_with_product_less_than_target.js" working-dir="$PROJECT_DIR$/exercises">
       <method v="2" />
     </configuration>
-    <configuration name="triplet_with_smaller_sum.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/exercises/triplet_with_smaller_sum.js" working-dir="$PROJECT_DIR$/exercises">
+    <configuration name="two-sum.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/exercises/two-sum.js" working-dir="$PROJECT_DIR$/exercises">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.two-sum.js" />
+        <item itemvalue="Node.js.remove_vowel.js" />
+        <item itemvalue="Node.js.list_triplet_with_smaller_sum.js" />
         <item itemvalue="Node.js.subarray_with_product_less_than_target.js" />
         <item itemvalue="Node.js.find_disappeared_nums.js" />
-        <item itemvalue="Node.js.triplet_with_smaller_sum.js" />
-        <item itemvalue="Node.js.single_num.js" />
-        <item itemvalue="Node.js.3sum.js" />
       </list>
     </recent_temporary>
   </component>
@@ -98,7 +98,9 @@
       <workItem from="1574146393857" duration="2179000" />
       <workItem from="1575672387192" duration="5190000" />
       <workItem from="1575834957680" duration="135000" />
-      <workItem from="1575842178551" duration="1906000" />
+      <workItem from="1575842178551" duration="3371000" />
+      <workItem from="1575888312086" duration="1114000" />
+      <workItem from="1576092123830" duration="2839000" />
     </task>
     <servers />
   </component>
@@ -205,6 +207,16 @@
           <url>file://$PROJECT_DIR$/exercises/3sum.js</url>
           <line>14</line>
           <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/exercises/list_triplet_with_smaller_sum.js</url>
+          <line>4</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/exercises/list_triplet_with_smaller_sum.js</url>
+          <line>12</line>
+          <option name="timeStamp" value="48" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
