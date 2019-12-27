@@ -41,8 +41,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.maximum_sum_subarray.js">
-    <configuration name="list_triplet_with_smaller_sum.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/exercises/list_triplet_with_smaller_sum.js" working-dir="$PROJECT_DIR$/exercises">
+  <component name="RunManager" selected="Node.js.dutch_national_flag.js">
+    <configuration name="dutch_national_flag.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/exercises/dutch_national_flag.js" working-dir="$PROJECT_DIR$/exercises">
       <method v="2" />
     </configuration>
     <configuration name="maximum_sum_subarray.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/exercises/maximum_sum_subarray.js" working-dir="$PROJECT_DIR$/exercises">
@@ -59,11 +59,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.dutch_national_flag.js" />
         <item itemvalue="Node.js.maximum_sum_subarray.js" />
         <item itemvalue="Node.js.two-sum.js" />
         <item itemvalue="Node.js.triplet_sum_to_zero.js" />
         <item itemvalue="Node.js.remove_vowel.js" />
-        <item itemvalue="Node.js.list_triplet_with_smaller_sum.js" />
       </list>
     </recent_temporary>
   </component>
@@ -100,7 +100,10 @@
       <workItem from="1575834957680" duration="135000" />
       <workItem from="1575842178551" duration="3371000" />
       <workItem from="1575888312086" duration="1114000" />
-      <workItem from="1576092123830" duration="9414000" />
+      <workItem from="1576092123830" duration="11006000" />
+      <workItem from="1577131022395" duration="353000" />
+      <workItem from="1577190651946" duration="413000" />
+      <workItem from="1577441904242" duration="234000" />
     </task>
     <servers />
   </component>
@@ -221,19 +224,16 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/exercises/triplet_sum_to_zero.js</url>
           <line>17</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="50" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/exercises/two-sum.js</url>
           <line>9</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="51" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/exercises/maximum_sum_subarray.js</url>
           <line>6</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="53" />
         </line-breakpoint>
       </breakpoints>
