@@ -41,8 +41,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.quadruple_sum_to_target.js">
+  <component name="RunManager" selected="Node.js.jewels_and_stones.js">
     <configuration name="dutch_national_flag.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/exercises/dutch_national_flag.js" working-dir="$PROJECT_DIR$/exercises">
+      <method v="2" />
+    </configuration>
+    <configuration name="jewels_and_stones.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/exercises/jewels_and_stones.js" working-dir="$PROJECT_DIR$/exercises">
       <method v="2" />
     </configuration>
     <configuration name="maximum_sum_subarray.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/exercises/maximum_sum_subarray.js" working-dir="$PROJECT_DIR$/exercises">
@@ -51,19 +54,16 @@
     <configuration name="quadruple_sum_to_target.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/exercises/quadruple_sum_to_target.js" working-dir="$PROJECT_DIR$/exercises">
       <method v="2" />
     </configuration>
-    <configuration name="triplet_sum_to_zero.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/exercises/triplet_sum_to_zero.js" working-dir="$PROJECT_DIR$/exercises">
-      <method v="2" />
-    </configuration>
     <configuration name="two-sum.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/exercises/two-sum.js" working-dir="$PROJECT_DIR$/exercises">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.jewels_and_stones.js" />
         <item itemvalue="Node.js.quadruple_sum_to_target.js" />
         <item itemvalue="Node.js.dutch_national_flag.js" />
         <item itemvalue="Node.js.maximum_sum_subarray.js" />
         <item itemvalue="Node.js.two-sum.js" />
-        <item itemvalue="Node.js.triplet_sum_to_zero.js" />
       </list>
     </recent_temporary>
   </component>
@@ -104,7 +104,7 @@
       <workItem from="1577131022395" duration="353000" />
       <workItem from="1577190651946" duration="413000" />
       <workItem from="1577441904242" duration="1184000" />
-      <workItem from="1577485040872" duration="98000" />
+      <workItem from="1577485040872" duration="1444000" />
     </task>
     <servers />
   </component>
