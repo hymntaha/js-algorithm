@@ -105,7 +105,8 @@
       <workItem from="1577190651946" duration="413000" />
       <workItem from="1577441904242" duration="1184000" />
       <workItem from="1577485040872" duration="2025000" />
-      <workItem from="1577768307930" duration="2742000" />
+      <workItem from="1577768307930" duration="2869000" />
+      <workItem from="1577777997652" duration="1795000" />
     </task>
     <servers />
   </component>
@@ -242,6 +243,12 @@
           <url>file://$PROJECT_DIR$/exercises/dutch_national_flag.js</url>
           <line>5</line>
           <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/exercises/comparing_strings_backspace.js</url>
+          <line>7</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="57" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
