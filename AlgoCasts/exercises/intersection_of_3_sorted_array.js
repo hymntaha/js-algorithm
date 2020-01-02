@@ -23,17 +23,11 @@ let arraysIntersection = function(arr1, arr2, arr3) {
     }
   }
 
-  // let newArray = [];
-
   for (let property in sumObject) {
     if (sumObject[property] !== 3) {
       delete sumObject[property];
     }
   }
-  // for (let property in sumObject) {
-  //   newArray.push(Object.keys(sumObject));
-  //
-  // }
 
   return Object.keys(sumObject)
 };
