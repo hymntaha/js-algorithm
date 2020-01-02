@@ -5,8 +5,8 @@ let isArmstrong = function(N) {
     armstrongNumber += Math.pow(Number(numberToStr[i]), numberToStr.length);
 
   }
-  // console.log(N)
-  // console.log(armstrongNumber)
+
+
   if (N == armstrongNumber) {
     return true
   }
