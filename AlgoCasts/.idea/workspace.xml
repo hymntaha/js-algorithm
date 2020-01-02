@@ -41,7 +41,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.intersection_of_3_sorted_array.js">
+  <component name="RunManager" selected="Node.js.replace_elements_with_greatest.js">
     <configuration name="armstrong_number.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/exercises/armstrong_number.js" working-dir="$PROJECT_DIR$/exercises">
       <method v="2" />
     </configuration>
@@ -54,16 +54,16 @@
     <configuration name="intersection_of_3_sorted_array.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/exercises/intersection_of_3_sorted_array.js" working-dir="$PROJECT_DIR$/exercises">
       <method v="2" />
     </configuration>
-    <configuration name="quadruple_sum_to_target.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/exercises/quadruple_sum_to_target.js" working-dir="$PROJECT_DIR$/exercises">
+    <configuration name="replace_elements_with_greatest.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/exercises/replace_elements_with_greatest.js" working-dir="$PROJECT_DIR$/exercises">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.replace_elements_with_greatest.js" />
         <item itemvalue="Node.js.intersection_of_3_sorted_array.js" />
         <item itemvalue="Node.js.armstrong_number.js" />
         <item itemvalue="Node.js.find_n_unique_int_sum_to_zero.js" />
         <item itemvalue="Node.js.comparing_strings_backspace.js" />
-        <item itemvalue="Node.js.quadruple_sum_to_target.js" />
       </list>
     </recent_temporary>
   </component>
@@ -107,7 +107,7 @@
       <workItem from="1577485040872" duration="2025000" />
       <workItem from="1577768307930" duration="2869000" />
       <workItem from="1577777997652" duration="2014000" />
-      <workItem from="1577838475261" duration="7179000" />
+      <workItem from="1577838475261" duration="8050000" />
     </task>
     <servers />
   </component>
