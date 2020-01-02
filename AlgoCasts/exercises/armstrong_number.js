@@ -14,3 +14,21 @@ let isArmstrong = function(N) {
 };
 
 console.log(isArmstrong(153))
+
+// Better solution
+
+//var isArmstrong = function(N) {
+//     let n = 0;
+//
+//     for (const c of N + '') {
+//         n++;
+//     }
+//
+//     let powerSum = 0;
+//
+//     for (const c of N + '') {
+//         powerSum += Math.pow(Number(c), n);
+//     }
+//
+//     return powerSum === N;
+// };
