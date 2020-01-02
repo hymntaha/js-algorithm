@@ -41,11 +41,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.find_n_unique_int_sum_to_zero.js">
-    <configuration name="comparing_strings_backspace.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/exercises/comparing_strings_backspace.js" working-dir="$PROJECT_DIR$/exercises">
+  <component name="RunManager" selected="Node.js.armstrong_number.js">
+    <configuration name="armstrong_number.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/exercises/armstrong_number.js" working-dir="$PROJECT_DIR$/exercises">
       <method v="2" />
     </configuration>
-    <configuration name="dutch_national_flag.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/exercises/dutch_national_flag.js" working-dir="$PROJECT_DIR$/exercises">
+    <configuration name="comparing_strings_backspace.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/exercises/comparing_strings_backspace.js" working-dir="$PROJECT_DIR$/exercises">
       <method v="2" />
     </configuration>
     <configuration name="find_n_unique_int_sum_to_zero.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/exercises/find_n_unique_int_sum_to_zero.js" working-dir="$PROJECT_DIR$/exercises">
@@ -59,11 +59,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.armstrong_number.js" />
         <item itemvalue="Node.js.find_n_unique_int_sum_to_zero.js" />
         <item itemvalue="Node.js.comparing_strings_backspace.js" />
         <item itemvalue="Node.js.quadruple_sum_to_target.js" />
         <item itemvalue="Node.js.jewels_and_stones.js" />
-        <item itemvalue="Node.js.dutch_national_flag.js" />
       </list>
     </recent_temporary>
   </component>
@@ -107,7 +107,7 @@
       <workItem from="1577485040872" duration="2025000" />
       <workItem from="1577768307930" duration="2869000" />
       <workItem from="1577777997652" duration="2014000" />
-      <workItem from="1577838475261" duration="508000" />
+      <workItem from="1577838475261" duration="2789000" />
     </task>
     <servers />
   </component>
