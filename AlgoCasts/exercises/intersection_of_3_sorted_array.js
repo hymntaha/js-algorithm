@@ -31,5 +31,7 @@ let arraysIntersection = function(arr1, arr2, arr3) {
 
   return Object.keys(sumObject)
 };
+// Another great solution
+var arraysIntersection = (arr1, arr2, arr3) => arr1.filter(e => arr2.includes(e) && arr3.includes(e))
 
 console.log(arraysIntersection([1,2,3,4,5], [1,2,5,7,9],[1,3,4,5,8]))
