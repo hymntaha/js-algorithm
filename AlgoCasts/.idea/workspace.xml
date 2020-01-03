@@ -107,7 +107,7 @@
       <workItem from="1577485040872" duration="2025000" />
       <workItem from="1577768307930" duration="2869000" />
       <workItem from="1577777997652" duration="2014000" />
-      <workItem from="1577838475261" duration="8050000" />
+      <workItem from="1577838475261" duration="9434000" />
     </task>
     <servers />
   </component>
@@ -255,6 +255,11 @@
           <line>1</line>
           <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/exercises/replace_elements_with_greatest.js</url>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="59" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
