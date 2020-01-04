@@ -41,29 +41,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.reverse_word.js">
-    <configuration name="high_five.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/exercises/high_five.js" working-dir="$PROJECT_DIR$/exercises">
-      <method v="2" />
-    </configuration>
-    <configuration name="intersection_of_3_sorted_array.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/exercises/intersection_of_3_sorted_array.js" working-dir="$PROJECT_DIR$/exercises">
+  <component name="RunManager" selected="Node.js.sort_array_by_parity.js">
+    <configuration name="largest_unique_number.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/exercises/largest_unique_number.js" working-dir="$PROJECT_DIR$/exercises">
       <method v="2" />
     </configuration>
     <configuration name="min_window_sort.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/exercises/min_window_sort.js" working-dir="$PROJECT_DIR$/exercises">
       <method v="2" />
     </configuration>
-    <configuration name="replace_elements_with_greatest.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/exercises/replace_elements_with_greatest.js" working-dir="$PROJECT_DIR$/exercises">
+    <configuration name="remove_outermost_parantheses.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/exercises/remove_outermost_parantheses.js" working-dir="$PROJECT_DIR$/exercises">
       <method v="2" />
     </configuration>
     <configuration name="reverse_word.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/exercises/reverse_word.js" working-dir="$PROJECT_DIR$/exercises">
       <method v="2" />
     </configuration>
+    <configuration name="sort_array_by_parity.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/exercises/sort_array_by_parity.js" working-dir="$PROJECT_DIR$/exercises">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.sort_array_by_parity.js" />
+        <item itemvalue="Node.js.remove_outermost_parantheses.js" />
+        <item itemvalue="Node.js.largest_unique_number.js" />
         <item itemvalue="Node.js.reverse_word.js" />
         <item itemvalue="Node.js.min_window_sort.js" />
-        <item itemvalue="Node.js.high_five.js" />
-        <item itemvalue="Node.js.replace_elements_with_greatest.js" />
-        <item itemvalue="Node.js.intersection_of_3_sorted_array.js" />
       </list>
     </recent_temporary>
   </component>
@@ -110,7 +110,7 @@
       <workItem from="1577838475261" duration="10608000" />
       <workItem from="1578035696292" duration="2440000" />
       <workItem from="1578086514754" duration="2488000" />
-      <workItem from="1578118458489" duration="1424000" />
+      <workItem from="1578118458489" duration="3925000" />
     </task>
     <servers />
   </component>
@@ -266,6 +266,12 @@
           <url>file://$PROJECT_DIR$/exercises/min_window_sort.js</url>
           <line>1</line>
           <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/exercises/remove_outermost_parantheses.js</url>
+          <line>1</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="65" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
