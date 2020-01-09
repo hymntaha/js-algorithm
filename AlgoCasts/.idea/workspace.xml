@@ -41,17 +41,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.sort_array_by_parity.js">
-    <configuration name="largest_unique_number.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/exercises/largest_unique_number.js" working-dir="$PROJECT_DIR$/exercises">
+  <component name="RunManager" selected="Node.js.array_of_products.js">
+    <configuration name="3sum.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/exercises/3sum.js" working-dir="$PROJECT_DIR$/exercises">
       <method v="2" />
     </configuration>
-    <configuration name="min_window_sort.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/exercises/min_window_sort.js" working-dir="$PROJECT_DIR$/exercises">
+    <configuration name="array_of_products.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/exercises/array_of_products.js" working-dir="$PROJECT_DIR$/exercises">
       <method v="2" />
     </configuration>
-    <configuration name="remove_outermost_parantheses.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/exercises/remove_outermost_parantheses.js" working-dir="$PROJECT_DIR$/exercises">
+    <configuration name="find_2_numbers.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/exercises/find_2_numbers.js" working-dir="$PROJECT_DIR$/exercises">
       <method v="2" />
     </configuration>
-    <configuration name="reverse_word.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/exercises/reverse_word.js" working-dir="$PROJECT_DIR$/exercises">
+    <configuration name="finding_decrease_sub.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/exercises/finding_decrease_sub.js" working-dir="$PROJECT_DIR$/exercises">
       <method v="2" />
     </configuration>
     <configuration name="sort_array_by_parity.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/exercises/sort_array_by_parity.js" working-dir="$PROJECT_DIR$/exercises">
@@ -59,11 +59,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.array_of_products.js" />
+        <item itemvalue="Node.js.find_2_numbers.js" />
+        <item itemvalue="Node.js.3sum.js" />
+        <item itemvalue="Node.js.finding_decrease_sub.js" />
         <item itemvalue="Node.js.sort_array_by_parity.js" />
-        <item itemvalue="Node.js.remove_outermost_parantheses.js" />
-        <item itemvalue="Node.js.largest_unique_number.js" />
-        <item itemvalue="Node.js.reverse_word.js" />
-        <item itemvalue="Node.js.min_window_sort.js" />
       </list>
     </recent_temporary>
   </component>
@@ -110,7 +110,12 @@
       <workItem from="1577838475261" duration="10608000" />
       <workItem from="1578035696292" duration="2440000" />
       <workItem from="1578086514754" duration="2488000" />
-      <workItem from="1578118458489" duration="3925000" />
+      <workItem from="1578118458489" duration="4699000" />
+      <workItem from="1578195541574" duration="540000" />
+      <workItem from="1578308784229" duration="10586000" />
+      <workItem from="1578382325125" duration="2524000" />
+      <workItem from="1578392918321" duration="1322000" />
+      <workItem from="1578563505363" duration="1791000" />
     </task>
     <servers />
   </component>
@@ -214,11 +219,6 @@
           <option name="timeStamp" value="44" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/exercises/3sum.js</url>
-          <line>14</line>
-          <option name="timeStamp" value="45" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/exercises/list_triplet_with_smaller_sum.js</url>
           <line>4</line>
           <option name="timeStamp" value="47" />
@@ -270,8 +270,13 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/exercises/remove_outermost_parantheses.js</url>
           <line>1</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/exercises/find_2_numbers.js</url>
+          <line>3</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="68" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
