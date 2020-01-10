@@ -115,7 +115,8 @@
       <workItem from="1578308784229" duration="10586000" />
       <workItem from="1578382325125" duration="2524000" />
       <workItem from="1578392918321" duration="1322000" />
-      <workItem from="1578563505363" duration="1791000" />
+      <workItem from="1578563505363" duration="3440000" />
+      <workItem from="1578641669881" duration="954000" />
     </task>
     <servers />
   </component>
@@ -275,8 +276,13 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/exercises/find_2_numbers.js</url>
           <line>3</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/exercises/array_of_products.js</url>
+          <line>1</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="72" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
